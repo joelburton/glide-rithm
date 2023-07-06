@@ -5,7 +5,7 @@ from setuptools import setup
 
 setup(
     name='Glide Rithm',
-    version='1.5.0',
+    version='1.6.0',
     description='Rithm themes for Glide.',
     author='Joel Burton',
     author_email='joel@joelburton.com',
